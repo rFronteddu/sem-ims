@@ -1,2 +1,1 @@
-# sem-ims
-sem-ims
+# Semantic Information Management System
